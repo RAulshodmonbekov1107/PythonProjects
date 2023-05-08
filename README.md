@@ -1,1 +1,1 @@
-<h1>Here are the projects which i have been working on, through the Data Camp course</h1>
+<h1>Here are the projects I have been working on, through the Data Camp course</h1>
